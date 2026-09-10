@@ -6,4 +6,5 @@ Due to GitHub file size limits, you can download the full interactive `.pbix` fi
 
 ## Power BI Report
 
-![Power BI Report](Screenshots/powerbi-report.png)
+![Power BI Report](5837173113379033420_120.jpg
+)
